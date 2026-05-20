@@ -31,5 +31,3 @@ npm run dev
 ```sh
 npm run build
 ```
-
-测试提交代码
